@@ -1,6 +1,8 @@
 # DirList
 DirList, a simple tool to recursively scan your directories
 
+![DirList on Windows](https://i.imgur.com/N71EX3a.png)
+
 This is a tool created with Hollywood-MAL 9.1 + my HGui libraries to show how HGui can be used and how simple it is.
 
 In this repository I will store the executables for all the platform supported by Hollywood, while the source code will be available only for my Patrons.
