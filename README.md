@@ -25,3 +25,4 @@ Executables are for:
 - Windows 64bit
 
 Support me on Patreon: https://www.patreon.com/Allanon71
+Patrons can suggest features and access a detailed and fully commented source code.
