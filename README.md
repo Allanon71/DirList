@@ -26,3 +26,10 @@ Executables are for:
 
 Support me on Patreon: https://www.patreon.com/Allanon71
 Patrons can suggest features and access a detailed and fully commented source code.
+
+------------------------
+v1.1
+- The application does not crash anymore if try to scan a locked or inaccessible folder
+- Changed the source to have a full event-driven application
+- User can interrupt the scan pressing the ESC key
+- User must confirm the scan stop responding to a requester
